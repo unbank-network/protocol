@@ -1,0 +1,15 @@
+{
+  "Unitroller": "0x61aAeaBdc65e4A95CcaA1a9573906604121ff87a",
+  "Comptroller": "0xe11f535B6F3F358122E73B9c4757BF192C8994c7",
+  "CompoundLens": "0x845b54041765A66941d426b9E4bE56003BCF005b",
+  "CErc20Delegates": [
+    "0xb49D4b6C2D8c266af8230720B8cd99EC63cfa8B6"
+  ],
+  "Markets": {
+    "uUSDC": "0x243415ce19991095b2105ba50d4cBa3D1de32695",
+    "uSDT": "0x2f594C8eCb740231B0039E3D8A5BFd14225801E7"
+  },
+  "JumpRateModelV3": {
+    "0__90__15__20": "0xd74daaf227a6B88aFf392857C23eCE2aD8F80e16"
+  }
+}
